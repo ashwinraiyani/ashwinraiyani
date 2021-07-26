@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I’m currently working on Cloud 
+🌱 I’m currently learning AWS Cloud Architect 
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with Cloud Certifications
 <!--
 **ashwinraiyani/ashwinraiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
